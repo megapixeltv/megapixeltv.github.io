@@ -13,3 +13,5 @@ I don't really have much else to write here, so I guess here are a list of games
     * I love this game. I had my doubts about the game because of EA and all, but this game is really fun.
 2.  Warframe
 	* I pretty much just log in daily to get the daily login bonus. I no longer play this game ever since I hate the melee 3.0 changes.
+3. Random Games
+	* Sometime I just play a game that surprises everyone. You should come check me out {% include icon-twitch.html username="mega_pixel" %}. :P

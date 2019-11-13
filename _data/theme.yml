@@ -35,4 +35,6 @@ google_fonts:
 
 navigation_pages:
   - about.md
+  - specs.md
+  - stream.md
   - cv.md
