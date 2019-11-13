@@ -3,12 +3,13 @@ title: "About"
 layout: about
 ---
 
-Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+![left-aligned-image](assets/images/2b-avatar.jpg){: .align-right}
+{: .text-left}
 
-- Clean responsive design with [six customizable skins](#skin)
-- Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-- About page layout
-- Disqus Comments and Google Analytics support
-- SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+I love playing games. I just stream for fun because my newly built computer can handle streaming. I figured that since I'm already playing games, I might as well stream the games that I play.
 
-You can find the source code for this theme at: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
+I don't really have much else to write here, so I guess here are a list of games that I'm currently playing:
+1. Need for Speed: Heat
+    * I love this game. I had my doubts about the game because of EA and all, but this game is really fun.
+2.  Warframe
+	* I pretty much just log in daily to get the daily login bonus. I no longer play this game ever since I hate the melee 3.0 changes.
