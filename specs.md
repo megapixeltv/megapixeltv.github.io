@@ -15,7 +15,7 @@ I love playing games. I just stream for fun because my newly built computer can 
 | CPU Cooler | Noctua D-15 SE-AM4 |
 | Motherboard | ASUS ROG Strix X470-I Gaming |
 | Graphics Card (GPU) | Zotac 1080 Ti AMP Edition |
-| GPU Cooler | Alphacool Liquid Cooler (Radiator) |
+| GPU Cooler | Alphacool Eiswolf GPX Pro (M25) with Backplate |
 | Memory (RAM) | G.Skill Ripjaws V 32GB (Black) |
 | Primary HDD| Samsung 970 EVO 1TB (M.2 SSD) |
 | Secondary HDD | Samsung 860 EVO 1TB |
@@ -27,7 +27,10 @@ I love playing games. I just stream for fun because my newly built computer can 
 | Component | Brand |
 |-------|--------|
 | Monitor | Acer Predator x34P (Ultrawide) |
-| Case/Radiator Fans | Alphacool Eiszyklon Aurora RGB Fans |
+| CPU Accessories | Chromax NA-HC3 chromax.black.swap (heatsink covers)
+| CPU Fans | Chromax NF-A15 HS-PWM chromax.black.swap
+| Radiator | Alphacool NexXxos Eiswolf / Eisbaer Ready ST30 Full Copper (240mm)
+| Case/Radiator Fans | Alphacool Eiszyklon Aurora RGB |
 | Keyboard | Logitech G Pro |
 | Mouse | Logitech G502 Hero |
 
