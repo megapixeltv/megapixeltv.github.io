@@ -13,4 +13,6 @@ You can watch me play some games from this site.
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.twitch.tv/embed/mega_pixel/chat" frameborder="0" scrolling="no" height="378" width="350"></iframe>
 </div>
 
-Or you can go directly to to my {% include icon-twitch.html username="mega_pixel" %} page and watch me there. :)
+
+
+Or you can go directly to to my {% include icon-mixer.html username="mega_pixel" %} OR {% include icon-twitch.html username="mega_pixel" %} page and watch me there. :)

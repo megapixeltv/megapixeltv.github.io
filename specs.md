@@ -34,4 +34,4 @@ I love playing games. I just stream for fun because my newly built computer can 
 | Keyboard | Logitech G Pro |
 | Mouse | Logitech G502 Hero |
 
-What else am I missing and/or what else do you wanna know? Go to my {% include icon-twitch.html username="mega_pixel" %} page and come chat. :D
+What else am I missing and/or what else do you wanna know? Go to my {% include icon-mixer.html username="mega_pixel" %} OR {% include icon-twitch.html username="mega_pixel" %} page and come chat. :D

@@ -9,7 +9,7 @@ This site is to help clean up my info section for my stream. I feel that a quali
 
 This site will receive a lot of changes once i figure this out. If you have any ideas or improvements please feel free to hit me up. I can always use help.
 
-You can watch me stream at: {% include icon-twitch.html username="mega_pixel" %}
+You can watch me stream at: {% include icon-mixer.html username="mega_pixel" %} OR {% include icon-twitch.html username="mega_pixel" %}
 
 Or you can learn more [About Me]({{ site.baseurl }}{% link about.md %}).
 
