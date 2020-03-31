@@ -23,6 +23,10 @@
   {% if site.twitch_username %}
     <li>{% include icon-twitch.html username=site.twitch_username label='Twitch' %}</li>
   {% endif %}
+
+  {% if site.mixer_username %}
+    <li>{% include icon-mixer.html username=site.mixer_username label='Mixer' %}</li>
+  {% endif %}
   
   <li>
     {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
